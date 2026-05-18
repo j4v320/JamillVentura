@@ -20,7 +20,7 @@
 ```python
 class CybersecurityEngineer:
     def __init__(self):
-        self.nombre       = "Tu Nombre"
+        self.nombre       = "Jamill Ventura de la cuba"
         self.rol          = "Systems Engineer → Cybersecurity"
         self.especialidad = ["Pentesting", "Red Team", "Vulnerability Assessment"]
         self.lenguajes    = ["Python", "Bash/Shell", "C/C++"]
@@ -29,7 +29,7 @@ class CybersecurityEngineer:
         self.buscando     = "Oportunidades en ciberseguridad ofensiva 🚀"
 
     def saludo(self):
-        return "¡Bienvenido a mi portafolio de seguridad!"
+        return "--¡Bienvenido a mi portafolio de seguridad!--"
 ```
 
 ---
