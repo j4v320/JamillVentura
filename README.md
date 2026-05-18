@@ -2,8 +2,6 @@
 **Systems Engineer | Cybersecurity Enthusiast | Pentesting & Red Team**
 <div align="center">
 
-# 👋 Hola, soy [TU NOMBRE]
-
 ### 🛡️ Systems Engineer | Cybersecurity Enthusiast | Pentesting & Red Team
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TUUSUARIO)
